@@ -1,4 +1,35 @@
+
+
+
 body{background: pink;
 	font-family:"Comic Sans MS", Calibri, Courier}
-ul{font-family:"Comic Sans MS", Calibri, Courier}
-p{display:block}
+	
+h1 {
+  font-family:"Comic Sans MS", Calibri, Cooper Black;
+  font-size:4em;
+  padding-top:5px;
+  font-style:italic;
+}
+
+h2 {
+  font-family:Cooper Black;
+  font-size:2em; 
+  padding-top:5px;
+ }
+  
+figure{}
+	
+ul{
+	font-family:"Comic Sans MS", Calibri, Courier;	
+	font-size:1.5em
+}
+
+p{
+	font-size: 1.5em;
+	color: #999900;
+}
+
+a:link {color: #999900}     
+a:visited {color: grey} 
+a:hover {color: red}  
+a:active {color: #999900}  
