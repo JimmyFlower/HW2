@@ -16,8 +16,14 @@ h2 {
   padding-top:5px;
  }
 
+h3 {
+  font-family:Calibri;
+  font-size:1.9em; 
+  padding-top:5px;
+ }
+
 div{display:block;
-text-align: center}
+text-align: left}
 
 figure{}
 	
