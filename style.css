@@ -1,18 +1,21 @@
 
 body{background: pink;
-	font-family:"Comic Sans MS", Calibri, Courier}
+	font-family:"Comic Sans MS", Calibri, Courier;
+	}
 	
 h1 {
   font-family:"Comic Sans MS", Calibri, Cooper Black;
   font-size:4em;
   padding-top:5px;
   font-style:italic;
+  color: yellow
 }
 
 h2 {
-  font-family:Cooper Black;
+  font-family:"Comic Sans MS"; Cooper Black;
   font-size:2em; 
   padding-top:5px;
+  color: green
  }
 
 h3 {
@@ -20,25 +23,50 @@ h3 {
   font-size:1.9em; 
   padding-top:5px;
  }
+ 
+#header {
+margin:0 auto; 
+width:60%; 
+text-align:left;
+}
 
-div{display:block;
-text-align: left}
 
-#resume {margin:0 auto; width:60%; text-align:left;
- }
-
-
+ 
+#content {
+margin:0 auto; 
+width:60%; 
+text-align:left;
+padding:10px;
+border:solid 2px white;}
+ 
+.photo {
+	border: solid 1px black; 
+	background: white;
+	text-align:center;
+	width: 350px;
+	padding: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left:10px;
+	margin-right:10px
+	}
 	
+
 ul{
-	font-family:"Comic Sans MS", Calibri, Courier;	
+	font-family: Calibri, Courier;	
 	font-size:1.5em
 }
 
+li{
+	font-size: 1.5em;
+	color: #999900;
+}
 p{
 	font-size: 1.5em;
 	color: #999900;
 }
 
+footer{text-align:center}
 a:link {color: #999900}     
 a:visited {color: grey} 
 a:hover {color: red}  
