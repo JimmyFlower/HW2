@@ -1,5 +1,4 @@
 
-
 body{background: pink;
 	font-family:"Comic Sans MS", Calibri, Courier}
 	
@@ -25,7 +24,10 @@ h3 {
 div{display:block;
 text-align: left}
 
-figure{}
+#resume {margin:0 auto; width:60%; text-align:left;
+ }
+
+
 	
 ul{
 	font-family:"Comic Sans MS", Calibri, Courier;	
