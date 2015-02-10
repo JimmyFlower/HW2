@@ -18,7 +18,7 @@ font-family: Helvetica, Arial, sans-serif;
 padding: 7pt
 }
 
-date{front-align:right}
+
 h2{
 padding: 0;
 margin: 0;
@@ -28,6 +28,7 @@ border-bottom: 1px solid black;
 
  p{
 line-height: 18pt;
+color: none
 }
 
 footer{
